@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb33b7c7-e5ad-463b-89d7-0e4fc8a54d9f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/FixingTheBug.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForEachBug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RefactorTheMethod/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RefactorTheMethod/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RefactorTheMethod/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RefactorTheMethod/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RefactorTheMethod/RefactorTheMethod.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RefactorTheMethod/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RefactorTheMethod/src/ProcessStudentDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RefactorTheMethod/src/StudentMarks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WriteUnitTest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WriteUnitTest/src/main/java/CheckIsPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WriteUnitTest/src/main/java/InvalidPrimeInputException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WriteUnitTest/src/test/java/CheckIsPrimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WriteUnitTests/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WriteUnitTests/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WriteUnitTests/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WriteUnitTests/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WriteUnitTests/WriteUnitTests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WriteUnitTests/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArraylistExamples/out/production/ArraylistExamples/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ArraylistExamples/out/production/ArraylistExamples/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArraylistExamples/out/production/ArraylistExamples/MyArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ArraylistExamples/out/production/ArraylistExamples/MyArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArraylistExamples/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArraylistExamples/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArraylistExamples/src/MyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArraylistExamples/src/MyArrayList.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2zlrXt3mSE0A61UoNsc7LC1hmfS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="FixingTheBug" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb33b7c7-e5ad-463b-89d7-0e4fc8a54d9f" name="Changes" comment="" />
+      <created>1752316549710</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752316549710</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
